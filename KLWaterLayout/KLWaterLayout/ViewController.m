@@ -13,6 +13,7 @@
 #import "CYShopCell.h"
 #import "SSChoosePhotoHeaderView.h"
 static NSString * const CYShopId = @"shop";
+
 @interface ViewController () <UICollectionViewDataSource, CYWaterFlowLayoutDelegate,UICollectionViewDelegate>
 /** 所有的商品数据 */
 @property (nonatomic, strong) NSMutableArray *shops;
