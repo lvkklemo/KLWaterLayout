@@ -1,9 +1,8 @@
 //
-//  CYShopCell.m
-//  瀑布流
+//  AppDelegate.h
+//  KLWaterLayout
 //
-//  Created by 葛聪颖 on 15/11/15.
-//  Copyright © 2015年 聪颖不聪颖. All rights reserved.
+//  Created by admin on 2022/11/7.
 //
 
 #import "CYShopCell.h"
@@ -17,10 +16,8 @@
 
 @implementation CYShopCell
 
-- (void)setShop:(CYShop *)shop
-{
+- (void)setShop:(CYShop *)shop{
     _shop = shop;
-    
     // 1.图片
 //    [self.imageView sd_setImageWithURL:[NSURL URLWithString:shop.img]];
     self.imageView.backgroundColor = UIColor.groupTableViewBackgroundColor;

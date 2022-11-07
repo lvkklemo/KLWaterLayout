@@ -1,9 +1,8 @@
 //
-//  SSChoosePhotoHeaderView.m
-//  瀑布流
+//  AppDelegate.h
+//  KLWaterLayout
 //
-//  Created by admin on 2022/10/20.
-//  Copyright © 2022 聪颖不聪颖. All rights reserved.
+//  Created by admin on 2022/11/7.
 //
 
 #import "SSChoosePhotoHeaderView.h"

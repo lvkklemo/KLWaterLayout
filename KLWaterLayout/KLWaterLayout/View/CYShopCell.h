@@ -1,9 +1,8 @@
 //
-//  CYShopCell.h
-//  瀑布流
+//  AppDelegate.h
+//  KLWaterLayout
 //
-//  Created by 葛聪颖 on 15/11/15.
-//  Copyright © 2015年 聪颖不聪颖. All rights reserved.
+//  Created by admin on 2022/11/7.
 //
 
 #import <UIKit/UIKit.h>

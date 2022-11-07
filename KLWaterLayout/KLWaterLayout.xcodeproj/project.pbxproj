@@ -293,13 +293,13 @@
 		8122276529189D4E001A2F65 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				8122276629189D4E001A2F65 /* CYShopCell.h */,
-				8122276729189D4E001A2F65 /* SSChoosePhotoHeaderView.h */,
-				8122276829189D4E001A2F65 /* CYShop.m */,
-				8122276929189D4E001A2F65 /* SSChoosePhotoHeaderView.m */,
-				8122276A29189D4E001A2F65 /* CYShopCell.xib */,
-				8122276B29189D4E001A2F65 /* CYShopCell.m */,
 				8122276C29189D4E001A2F65 /* CYShop.h */,
+				8122276829189D4E001A2F65 /* CYShop.m */,
+				8122276729189D4E001A2F65 /* SSChoosePhotoHeaderView.h */,
+				8122276929189D4E001A2F65 /* SSChoosePhotoHeaderView.m */,
+				8122276629189D4E001A2F65 /* CYShopCell.h */,
+				8122276B29189D4E001A2F65 /* CYShopCell.m */,
+				8122276A29189D4E001A2F65 /* CYShopCell.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
